@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.1",
   "parameters": {
       "webAppName": {
-          "value": "streamlit-azure-app-services-example"
+          "value": "image-gallery-app"
       },
       "sku": {
           "value": "B1"
@@ -12,7 +12,7 @@
           "value": "PYTHON|3.7"
       },
       "repoUrl": {
-          "value": "https://github.com/omalinow248/image-gallery.git"
+          "value": "https://github.com/omalinow248/image-gallery-om.git"
       },
       "repoBranch": {
           "value": "main"
