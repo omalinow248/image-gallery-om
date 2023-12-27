@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'image-gallery-om'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B54003EC21FD4E3DB565D5D68D596EBC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1770BB3E1FA14A82ACE0FFB3A7BF5364 }}
